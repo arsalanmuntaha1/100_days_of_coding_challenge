@@ -1,6 +1,6 @@
 // lower case
 
-let personName = "mUntaHa"; 
+let personName: string = "mUntaHa"; 
 console.log(personName.toLowerCase());                                                                                   
 
 
